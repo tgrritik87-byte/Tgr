@@ -1,0 +1,6 @@
+{
+  "name": "Spark Dating",
+  "description": "Mobile dating app with verified profiles, swipe discovery, mutual chat, voice lounges, live rooms, icebreaker games, and safety tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
